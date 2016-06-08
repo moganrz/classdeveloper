@@ -1,2 +1,7 @@
 O Soatto é bobo
-O Soatto baba
+++<<<<<<< HEAD
+ +O Soatto baba
+++=======
++ O Soatto fala muito e é meu amigo
++ O Soatto está usando óculos
+++>>>>>>> b1
